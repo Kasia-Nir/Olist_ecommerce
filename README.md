@@ -34,6 +34,8 @@ Q3. **What percentage of orders are canceled, and how does that change over time
 
 ## 📈 Visualizations Used
 
+Link: https://kasia-nir.github.io/Olist_ecommerce/Power_BI_charts.pdf
+
 Power Bi dashbaords are generated to show results(Visualization representing each question is located in `Power_BI_charts.pdf` file. The first chart answers first question, and so on):
 
 - (Q1)**Bar Chart / Stacked Bar:** Sold Items vs Revenue by Product Category
