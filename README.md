@@ -59,6 +59,8 @@ Power Bi dashbaords are generated to show results(Visualization representing eac
 
 ## 👩‍💻 Author
 
-Created by Kasia Nir  
+Created by Kasia Nir
+
 📧 Email: kasia.nir@onet.pl 
-🔗 LinkedIn: [Kasia Nir](www.linkedin.com/in/kasia-nir)
+
+🔗 LinkedIn: www.linkedin.com/in/kasia-nir/
